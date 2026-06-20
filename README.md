@@ -11,4 +11,4 @@
 <p align="center">
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=Yoviutenkai&theme=gotham&show_icons=true" />
 </p>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&theme=gotham&layout=compact" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yoviutenkai&theme=gotham&layout=compact" />
