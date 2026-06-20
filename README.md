@@ -1,5 +1,17 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&pause=1000&color=00C896&width=600&lines=Ohh,+hey+there!!;I'm+yovi+👋;Still+learning+new+things+every+day;Building+cool+stuff+one+step+at+a+time;Welcome+to+my+GitHub+profile)](https://git.io/typing-svg)
 
-font=JetBrains+Mono&pause=1200&color=00C896&center=true&vCenter=true&width=700&lines=Ohh,+hey+there!!;I'm+Yovi+👋;Still+learning+new+things+every+day;Building+cool+stuff+one+step+at+a+time;Welcome+to+my+GitHub+profile)](https://git.io/typing-svg)
+A Web Developer from Indonesia. Passionate about constantly learning, taking on new challenges, and building impactful web solutions. I'm always open to collaborating on exciting projects and exploring innovative ideas. Feel free to connect with me and discover more about my work here:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-ahdan-firdaus-a92125290/) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/ahdan.firdaus/) 
+
+<div style="display: flex; gap: 1rem;">
+<img align="left" height='170px' src="https://github-readme-stats.vercel.app/api?username=ahdanfirdaus&theme=gotham&show_icons=true&hide_border=true&count_private=true" />
+
+<img align="" height='170px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahdanfirdaus&theme=gotham&show_icons=true&hide_border=true&layout=compact" />
+</div>
+
+## ⚡Skills
 
 ---
 
