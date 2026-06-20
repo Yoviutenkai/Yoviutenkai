@@ -3,11 +3,12 @@
 ## 🚀 About Me
 Hey, I'm yovi 👋. I enjoy exploring new technologies, building interesting projects, and learning something new every day. This GitHub is where I share my progress, experiments, and ideas as I continue growing. Feel free to connect with me on [LinkedIn](LINK_LINKEDIN_KAMU).
 
+
+
 <p align="center">
-<img align="left" height='170px' src="https://github-readme-stats.vercel.app/api?username=ahdanfirdaus&theme=gotham&show_icons=true&hide_border=true&count_private=true" />
-
-<img align="" height='170px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahdanfirdaus&theme=gotham&show_icons=true&hide_border=true&layout=compact" />
-
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Kyyoa&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kyyoa&theme=tokyonight&layout=compact&hide_border=true" />
+</p>
 
 ## 🐍 Contribution Snake
 
